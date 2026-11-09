@@ -1,41 +1,38 @@
-# Aditya Pavale
+# Hi, I'm Aditya Pavale
 
-I am a Computer Science Engineering student at Amrita Vishwa Vidyapeetham, Bengaluru.
-My academic interests lie in applying computational techniques to real-world
-problems, with a focus on machine learning, deep learning, natural language
-processing, and computer networks.
+Final-year Computer Science student at Amrita School of Engineering, Bengaluru (B.Tech 2027). I like building things that work end to end, from the data or database to the deployed app, and I care about getting the evaluation and the security right.
 
-Through coursework and academic projects, I have worked on complete problem
-pipelines including data preparation, model or system design, implementation,
-and evaluation. I prioritize clarity of methodology and correctness of approach
-over large-scale production development.
+## What I'm working on
 
----
+- **Final-year project:** anomaly detection on 2.1M rows of ESA satellite telemetry, benchmarking LSTM, XGBoost and AutoEncoder hybrids under severe class imbalance (anomalies are 0.39% of the data).
+- **Zero-knowledge password vault:** Django app where encryption happens in the browser (AES-256-GCM, RSA sharing and signatures), tested in CI with pytest, Bandit, Semgrep and OWASP ZAP.
 
-## Academic Interests
-- Machine learning and predictive modeling
-- Deep learning architectures and applications
-- Natural language processing
-- Computer networks and protocol analysis
+Both are in private repos. I'm happy to walk through the code.
 
----
+## Projects
 
-## Completed Academic Projects
-- Stock Market Prediction using Machine Learning  
-- Disaster Management System using Deep Learning  
-- Network Protocol Simulation and Analysis  
-- Question Answer Generation using Natural Language Processing  
-- Textual Analysis of Viva Answers  
-- Hostel Management System  
+| Project | What it is | Stack |
+|---|---|---|
+| [MentorBridge](https://github.com/aditya-pavale/software_project) | Mentorship and counselling portal for my department, with student, mentor and admin roles | PHP, MySQL |
+| [Network Protocol Analysis](https://github.com/aditya-pavale/network-protocol-analysis-cn) | TCP vs UDP and AIMD vs BBR under delay and packet loss | Client-server, log analysis |
+| [Disaster Management](https://github.com/aditya-pavale/disaster-management-dl) | Disaster image classification with fine-tuned ResNet and DenseNet | PyTorch |
+| [Interactive Question Answering](https://github.com/aditya-pavale/interactive-question-answering-nlp) | Compares DeBERTa, DistilBERT, T5 and FLAN-T5 | PyTorch, Transformers |
+| [Viva Clarity Assessment](https://github.com/aditya-pavale/viva-clarity-assessment-nlp) | Rates how clearly students explain concepts in viva answers | Python, NLP |
+| [Stock Market Prediction](https://github.com/aditya-pavale/stock-market-prediction-ml) | Predicts daily price movement from technical indicators | Scikit-learn |
+| [Hostel Management System](https://github.com/aditya-pavale/hostel-management-system) | Room allocation and records with separate admin and student access | PHP, MySQL |
 
----
+## Experience
 
-## Technical Skills
-Programming: Python, C, Java  
-Machine Learning & NLP: Scikit-learn, TensorFlow, PyTorch (academic use), transformer models  
-Systems & Tools: Linux, Git, Mininet  
+- **Systems & HPC Intern, NARL (Dept. of Space, Govt. of India), Dec 2025 - Jan 2026:** ran distributed GPU jobs with SLURM and debugged CUDA and driver issues on the lab's cluster.
+- **AI & ML Intern, EduNoVerse Tech Solutions, Jun 2026.**
 
----
+## Skills
+
+**Languages:** Python, Java, C, JavaScript, PHP, SQL
+**Backend and security:** Django, Flask, JWT, RBAC, applied cryptography
+**Data and ML:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas
+**Tools:** Git, GitHub Actions, Docker, Linux, SLURM
 
 ## Contact
-GitHub: https://github.com/aditya-pavale
+
+[LinkedIn](https://www.linkedin.com/in/aditya-pavale) · aspavale28@gmail.com
